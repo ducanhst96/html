@@ -1,0 +1,36 @@
+﻿header
+{
+	text-align:center;
+	color: Black;
+	background:url("http://i.imgur.com/U20tRaR.jpg");
+	background-size:cover;
+	
+	}
+img
+{
+	border: 7px solid white;
+	border-radius:180px;
+	margin-top:70px;
+	
+	}
+h1
+{
+	font-size:70px;
+	}
+li
+{
+	display:inline;
+	padding:0px 41px 0 200px;
+	}
+	
+ul
+{
+	background:black;
+	padding:10px ;
+	padding-right:80px;
+	}
+a
+{
+	color:yellowgreen;
+	font-size:30px;
+	}
